@@ -5,5 +5,6 @@ end
 
 ## Comment the below back in to see method scope in action!
 
-# rescue_princess_peach
-# puts status
+
+# Rescue princess peach updates stats to "rescued"
+# Outputs "Hooray! Mario has rescued Princess Peach."
